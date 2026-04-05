@@ -1,0 +1,33 @@
+greek-free.m3u
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/0/0f/ERT1_logo.svg/512px-ERT1_logo.svg.png" group-title="Ελληνικά Επίγεια",ERT1
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd
+
+#EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/5/5e/ERT2_logo.svg/512px-ERT2_logo.svg.png" group-title="Ελληνικά Επίγεια",ERT2
+https://ertflix.ascdn.broadpeak.io/ert2/default/index.mpd
+
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/3/3f/ERT3_logo.svg/512px-ERT3_logo.svg.png" group-title="Ελληνικά Επίγεια",ERT3
+https://ertflix.ascdn.broadpeak.io/ertlive/ert3/default/index.mpd
+
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/9/9f/ERT_News_logo.svg/512px-ERT_News_logo.svg.png" group-title="Ελληνικά Επίγεια",ERT News
+https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/0/0f/Ant1_logo.svg/512px-Ant1_logo.svg.png" group-title="Ελληνικά Επίγεια",ANT1
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/9/9f/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png" group-title="Ελληνικά Επίγεια",Star
+https://livestar.siliconweb.com/starvod/star4/star4.m3u8
+
+#EXTINF:-1 tvg-id="AlphaTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/8/8f/Alpha_TV_logo.svg/512px-Alpha_TV_logo.svg.png" group-title="Ελληνικά Επίγεια",Alpha
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Skai.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/0/0b/SKAI_TV_logo.svg/512px-SKAI_TV_logo.svg.png" group-title="Ελληνικά Επίγεια",ΣΚΑΪ
+https://stream.skai.gr/hls/skai.m3u8
+
+#EXTINF:-1 tvg-id="Mega.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/5/5f/Mega_Channel_logo.svg/512px-Mega_Channel_logo.svg.png" group-title="Ελληνικά Επίγεια",Mega
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OpenTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/2/2f/Open_TV_logo.svg/512px-Open_TV_logo.svg.png" group-title="Ελληνικά Επίγεια",Open
+https://stream.open.tv/open/live/playlist.m3u8
